@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Text Adventure Simulator 2016", "Text Adventure Simulator 2016\Text Adventure Simulator 2016.vcxproj", "{ADC1CF53-7215-4AAD-9147-B822E96BFB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC1CF53-7215-4AAD-9147-B822E96BFB05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADC1CF53-7215-4AAD-9147-B822E96BFB05}.Debug|Win32.Build.0 = Debug|Win32
+		{ADC1CF53-7215-4AAD-9147-B822E96BFB05}.Release|Win32.ActiveCfg = Release|Win32
+		{ADC1CF53-7215-4AAD-9147-B822E96BFB05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
